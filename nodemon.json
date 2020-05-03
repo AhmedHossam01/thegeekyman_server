@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_HOST": "localhost:27017",
+    "DB_NAME": "thegeekyman",
+    "PORT": 5000
+  }
+}
